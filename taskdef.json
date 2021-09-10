@@ -2,7 +2,7 @@
     "executionRoleArn": "arn:aws:iam::<AWS_ACCOUNT_ID>:role/rin-cicd-role",
     "containerDefinitions": [
         {
-            "name": "test-web",
+            "name": "nginx",
             "image": "<IMAGE1_NAME>",
             "logConfiguration":
             {
