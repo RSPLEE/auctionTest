@@ -1,5 +1,5 @@
 {
-    "executionRoleArn": "arn:aws:iam::<AWS_ACCOUNT_ID>:role/allu-cicd-role",
+    "executionRoleArn": "arn:aws:iam::<AWS_ACCOUNT_ID>:role/rin-cicd-role",
     "containerDefinitions": [
         {
             "name": "test-web",
